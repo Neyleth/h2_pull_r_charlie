@@ -1,6 +1,6 @@
 # Charlie.
 
-#INTEGRANTES:
+Integrantes:
 
 Arturo Mendoza (Alfa)
 
